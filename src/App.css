@@ -1,5 +1,8 @@
 .App {
   text-align: center;
+  color: white;
+  
+ 
 }
 
 .App-logo {
@@ -35,4 +38,45 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.displayTimer{
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+ 
+}
+.form{
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+ 
+}
+.btn{
+  cursor: pointer;
+  
+ padding: 1vh;
+  font-size: medium;
+  width: 12%;
+  font-size: 1.5vw;
+ color: white;
+border: 2px solid white ;
+border-radius: 10px;
+background-image: linear-gradient(to top left, aqua,rgb(0, 208, 255),rgba(128, 128, 128, 0.521) );
+}
+
+.displayCard{
+  box-shadow: 2px;
+ margin: 10px;
+ padding: 1vh;
+  font-size: 2.5vw;
+ font-weight: bold;
+width: 15%;
+  border: 2px solid white;
+  border-radius: 10px;
+  background-image: linear-gradient(to bottom right, aqua,rgb(0, 208, 255),rgba(128, 128, 128, 0.521));
 }
