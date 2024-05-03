@@ -61,8 +61,8 @@
   
  padding: 1vh;
   font-size: medium;
-  width: 12%;
-  font-size: 1.5vw;
+  width: 15%;
+  font-size: 1vw;
  color: white;
 border: 2px solid white ;
 border-radius: 10px;
@@ -71,11 +71,11 @@ background-image: linear-gradient(to top left, aqua,rgb(0, 208, 255),rgba(128, 1
 
 .displayCard{
   box-shadow: 2px;
- margin: 10px;
+ margin: 5px;
  padding: 1vh;
-  font-size: 2.5vw;
+  font-size: 1.5vw;
  font-weight: bold;
-width: 15%;
+width: 10%;
   border: 2px solid white;
   border-radius: 10px;
   background-image: linear-gradient(to bottom right, aqua,rgb(0, 208, 255),rgba(128, 128, 128, 0.521));
