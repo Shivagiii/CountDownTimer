@@ -59,24 +59,24 @@
 .btn{
   cursor: pointer;
   
- padding: 1vh;
+ padding: 1.5vh;
   font-size: medium;
-  width: 15%;
-  font-size: 1vw;
+  width: auto;
+  font-size: 2vw;
  color: white;
 border: 2px solid white ;
 border-radius: 10px;
-background-image: linear-gradient(to top left, aqua,rgb(0, 208, 255),rgba(128, 128, 128, 0.521) );
+background-image: linear-gradient(to top left, rgb(179, 216, 220),rgb(32, 142, 155) );
 }
 
 .displayCard{
   box-shadow: 2px;
- margin: 5px;
- padding: 1vh;
-  font-size: 1.5vw;
+ margin: 1%;
+ padding: 0.5vh;
+  font-size: 3vw;
  font-weight: bold;
-width: 10%;
+width: 15%;
   border: 2px solid white;
   border-radius: 10px;
-  background-image: linear-gradient(to bottom right, aqua,rgb(0, 208, 255),rgba(128, 128, 128, 0.521));
+  background-image: linear-gradient(to bottom right, rgb(179, 216, 220),rgb(32, 142, 155)  );
 }
